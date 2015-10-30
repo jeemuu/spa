@@ -1,4 +1,4 @@
-# Purpose
+# Purpose...
 
 These are the resources discussed in the book 
 **Single Page Web Applications - JavaScript end-to-end**.
